@@ -40,7 +40,7 @@ p=("بايثون",)*2
 print(p) # print ('بايثون', 'بايثون')
 print(len(p)) #print 2
 print(f+p) # print  ('Apple', 'Banana', 'Cherry', 'بايثون', 'بايثون')
-# Day 18&19:
+# Day 18&19: Challenge
 newList=[1,2,3,4,5]
 newList.append(6)
 print(newList) #print  [1, 2, 3, 4, 5, 6]
